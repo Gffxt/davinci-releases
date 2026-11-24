@@ -38,14 +38,14 @@ Fast, modern, offline-first timetable viewer built for students, lecturers, and 
 
 ## Key Features
 
-- **1-Tap Official GMI Timetable Sync**: Sign in once with Google and sync the latest official GMI schedule directly inside the app — cached locally for **100% offline** viewing afterwards.
-- **Local `.DAV` & `.DAVZ` Support**: Pure-Kotlin native Stüber daVinci V30 binary decoder (~200 ms decode time, zero WebView overhead).
-- **Card View & Grid View**: Switch smoothly between modern scrollable day cards (auto-scrolling straight to **Today**) and a full period-by-period weekly grid.
-- **Smart Calendar & Breaks**: Automatically highlights public holidays and semester breaks (e.g., *Semester Break*, *MID SEM BREAK*) and clearly marks unlisted weeks as *"Not Listed Yet by TTO's"*.
-- **Interactive Day / Night GMi Icon**: Automatically switches between **Morning White (`06:00–18:59`)** and **Night AMOLED Black (`19:00–05:59`)**, with manual override in Settings.
-- **Adaptive 120Hz / 90Hz / 60Hz Display**: Automatically matches your phone's native refresh rate for ultra-smooth scrolling.
-- **Pure `#000000` AMOLED Dark & Clean Light Modes**: Instant theme toggle in the top bar and Settings.
-- **Automatic In-App Updates**: Built-in verified update downloader so you always stay on the latest release.
+- **1-Tap Official GMI Timetable Sync**
+- **Local `.DAV` & `.DAVZ` Support**
+- **Card View & Grid View**
+- **Smart Calendar & Breaks**
+- **Interactive Day / Night GMi Icon**
+- **Adaptive 120Hz / 90Hz / 60Hz Display**
+- **Pure `#000000` AMOLED Dark & Clean Light Modes**
+- **Automatic In-App Updates**
 
 ---
 
